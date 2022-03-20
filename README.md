@@ -1,3 +1,6 @@
+# blog
+Building a Free Blog with GitHub Pages for Myself.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tamakofficial/blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
